@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jitpack.io/#samoba-islam/Image-picker-kit"><img src="https://jitpack.io/v/samoba-islam/Image-picker-kit.svg" alt="JitPack"/></a>
+  <a href="https://jitpack.io/#samoba-islam/ImagePickKit"><img src="https://jitpack.io/v/samoba-islam/ImagePickKit.svg" alt="JitPack"/></a>
   <img src="https://img.shields.io/badge/API-29%2B-brightgreen.svg?style=flat" alt="API 29+"/>
   <img src="https://img.shields.io/badge/License-GPL--3.0-blue.svg" alt="License GPL-3.0"/>
 </p>
@@ -51,7 +51,7 @@ Add the dependency to your app's `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("com.github.samoba-islam:Image-picker-kit:1.0.0")
+    implementation("com.github.samoba-islam:ImagePickKit:1.0.0")
 }
 ```
 
